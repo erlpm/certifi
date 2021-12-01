@@ -11,7 +11,7 @@
   {files, ["src",
            "priv",
            "test",
-           "rebar.config",
+           "epm.config",
            "README.md",
            "LICENSE"]}
  ]}.

@@ -29,5 +29,5 @@ Path = certifi:cacertfile().
 ## Build & test
 
 ```shell
-$ rebar3 eunit
+$ epm eunit
 ```

@@ -1,4 +1,4 @@
-.rebar3
+.epm
 _*
 .eunit
 *.o
@@ -8,8 +8,8 @@ _*
 *.swo
 .erlang.cookie
 log
+deps
 erl_crash.dump
-.rebar
 _rel
 _deps
 _plugins
